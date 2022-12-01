@@ -1,0 +1,11 @@
+mlflow
+catboost
+xgboost
+scikit-learn
+pandas
+numpy
+optuna
+jupyter
+matplotlib
+mlserver
+mlserver-mlflow
